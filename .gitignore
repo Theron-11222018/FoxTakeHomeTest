@@ -1,0 +1,10 @@
+/target
+/.idea/**/workspace.xml
+/.idea/**/usage.statistics.xml
+/.idea/**/tasks.xml
+/.idea/**/modules.xml
+/.idea/**/uiDesigner.xml
+/.idea/shelf
+*iml
+.allure
+.idea
